@@ -30,7 +30,8 @@ Comparative analysis of snake game in C and Python Programming languages
 * *--> Food
 
 # Snake Game in Python
-A simple Snake game implemented in Python using the Pygame library.
+* A simple Snake game implemented in Python using the Pygame library.
+* snake2.py: Main source file containing the game implementation.
 
 ## Description
 This Snake game is a classic arcade game where the player controls a snake that must eat fruits to grow while avoiding collisions with itself and the game boundaries.
